@@ -1,1 +1,1 @@
-# cow-central
+# Cow Central
